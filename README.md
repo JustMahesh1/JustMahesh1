@@ -9,8 +9,8 @@ Having some experience in developing classical stunning applications and aware o
 * 🌍  I'm based in MUMBAI, INDIA
 * 🖥️  See my portfolio at [Here itself](http://github.com/justmahesh1)
 * ✉️  You can contact me at [mahesh2122003@gmail.com](mailto:mahesh2122003@gmail.com)
-* 🧠  I'm learning unknown couses
-* 🤝  I'm open to collaborating on anything that I know
+* 🧠  I'm learning unknown courses
+* 🤝  I'm open to collaborate
 * ⚡  nothing else
 
 <a href="https://www.github.com/justmahesh1" target="_blank" rel="noreferrer"><img
